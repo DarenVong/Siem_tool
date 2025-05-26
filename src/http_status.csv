@@ -1,0 +1,3 @@
+2025-05-25 12:00:00 INFO This is a test message
+2025-05-25 12:00:01 ERROR This is an error message
+2025-05-25 12:00:02 WARNING This is a warning message
